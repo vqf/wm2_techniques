@@ -14,4 +14,7 @@
 
   - WGS, WES.
   - RNA-Seq, DEA.
+  - Microarrays.
+  - Gene Set Enrichment Analysis.
+  - PCA.
   - Splicing patterns.
